@@ -1,6 +1,9 @@
 # Intercom AI Copilot Clone
 
 A responsive Intercom-inspired customer support dashboard with AI Copilot functionality, built with React.
+## Live Demo
+
+🌍 [View Live Deployment on Vercel](https://intercom-ai-copilot.vercel.app/) 
 
 ## Features
 
